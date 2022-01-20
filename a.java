@@ -1,3 +1,5 @@
 class a{
-master
+
+  System.out.println("Hello");
+
 }
